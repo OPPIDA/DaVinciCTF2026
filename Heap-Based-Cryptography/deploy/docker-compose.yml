@@ -1,0 +1,9 @@
+services:
+  heap-based-cryptography:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: heap-based-cryptography
+    container_name: heap-based-cryptography
+    ports:
+      - 1234:1234

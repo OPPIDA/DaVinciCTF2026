@@ -1,0 +1,3 @@
+[submodule "Heap-Based-Cryptography/deploy/lib/hash-sigs"]
+	path = Heap-Based-Cryptography/deploy/lib/hash-sigs
+	url = https://github.com/cisco/hash-sigs
