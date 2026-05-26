@@ -1,7 +1,7 @@
 # Backdoor
 
 ## Pièces jointes
-- [`system-images.txz`](./files/system-images.txz)
+- [`system-images.txz`](./files/system-images.txz) (avec `git lfs pull` ou via [release](https://github.com/OPPIDA/DaVinciCTF2026/releases/download/files/system-images.txz))
 
 ## Installation
  

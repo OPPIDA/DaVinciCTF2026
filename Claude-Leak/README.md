@@ -1,7 +1,7 @@
 # Claude Leak
 
 ## Pièces jointes
-- [`memory.dmp.gz`](./files/memory.dmp.gz)
+- [`memory.dmp.gz`](./files/memory.dmp.gz) (avec `git lfs pull` ou via [release](https://github.com/OPPIDA/DaVinciCTF2026/releases/download/files/memory.dmp.gz))
 - [`sqlite-mcp-server.sqlite3`](./files/sqlite-mcp-server.sqlite3)
 
 ## Description
